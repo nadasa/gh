@@ -11,7 +11,7 @@
 	
 	<div class="upload">
 		<form action="upload" method="post" enctype="multipart/form-data">
-			<input type="file" name="file2">
+			<input type="file" name="file">
 			<input type="submit" value="上传">
 		</form>
 	</div>
